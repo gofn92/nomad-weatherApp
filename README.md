@@ -1,2 +1,2 @@
 # nomad-weatherApp
-nomad-weatherApp use react native
+nomad-weatherApp use react native and expo
